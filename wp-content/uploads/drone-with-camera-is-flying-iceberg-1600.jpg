@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=httpsatfi.in/wp-content/uploads/404.html">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "httpsatfi.in/wp-content/uploads/404.html";
+		</script>
+
+		<p>You are being redirected to <a href="httpsatfi.in/wp-content/uploads/404.html">httpsatfi.in/wp-content/uploads/404.html</a></p>
+	</body>
+</html>

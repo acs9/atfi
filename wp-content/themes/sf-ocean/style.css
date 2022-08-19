@@ -1,0 +1,31 @@
+/*
+Theme Name:   SF Ocean
+Description:  SF Ocean Theme
+Author:       diptanshu
+Author URL:   about.me/diptanshu
+Template:     oceanwp
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  sf-ocean
+*/
+
+/* https://coolors.co/fe6a7f-fff5eb-fdd563-f0f9fa-ecf4e9
+ * https://coolors.co/ffd6e9-fedbd7-fdf9d8-effbf4-d9f1fc-efdafb
+ */
+
+.lnr {font-size:32px;}
+#MainMenu .oceanwp-custom-menu a {font-weight:500;}
+#MainMenu .oceanwp-custom-menu a:hover {color:#13aff0;}
+ul.linespace li { margin-bottom: 7px; line-height: 1.4em; }
+
+.popupaoc-link {
+    padding: 10px 20px;
+    background-color: navy;
+    color: #FFF;
+    margin: 0 auto;
+    text-align: center;
+    display: table;
+}
+.entry-content p {text-align:justify;}
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog Archives - AvTech Forum India</title>
+	<atom:link href="/c/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/c/blog/</link>
+	<description>AvTech Forum, India (ATFI)</description>
+	<lastBuildDate>Sat, 22 May 2021 13:48:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>/wp-content/uploads/cropped-atfi-favicon-32x32.png</url>
+	<title>Blog Archives - AvTech Forum India</title>
+	<link>/c/blog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Economic Stimulus: Case of Glass Half Full or Half Empty for General Aviation MRO</title>
+		<link>/blog/economic-stimulus-case-of-glass-half-full-or-half-empty-for-general-aviation-mro/</link>
+					<comments>/blog/economic-stimulus-case-of-glass-half-full-or-half-empty-for-general-aviation-mro/#respond</comments>
+		
+		<dc:creator><![CDATA[Air Vice Marshal SN Murti (Retd)]]></dc:creator>
+		<pubDate>Thu, 28 May 2020 14:27:11 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.atfi.in/?p=913</guid>
+
+					<description><![CDATA[<p>There has been severe setback to the aviation industry during the lockdowns and suspension of flights due to COVID-19 pandemic. Prolonged and sustained efforts are needed by all stakeholders for inducing momentum to attain its pre-COVID-19 status. Initially the momentum will be slow till the social distancing norms and travel restrictions remain. Entire global community [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/blog/economic-stimulus-case-of-glass-half-full-or-half-empty-for-general-aviation-mro/">Economic Stimulus: Case of Glass Half Full or Half Empty for General Aviation MRO</a> appeared first on <a rel="nofollow" href="/">AvTech Forum India</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/economic-stimulus-case-of-glass-half-full-or-half-empty-for-general-aviation-mro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Effect of Lockdown on Ground Handling and MRO Industry Associated with General Aviation</title>
+		<link>/blog/effect-of-lockdown-on-ground-handling-and-mro-industry-associated-with-general-aviation/</link>
+					<comments>/blog/effect-of-lockdown-on-ground-handling-and-mro-industry-associated-with-general-aviation/#respond</comments>
+		
+		<dc:creator><![CDATA[Air Vice Marshal SN Murti (Retd)]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 15:39:35 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">http://www.atfi.in/?p=848</guid>
+
+					<description><![CDATA[<p>The capital investment in aviation and associated businesses are heavy. Therefore, in situations like this, the losses are also proportionate and grow exponentially with no inflow of revenue. The ground handling and MRO business have come to a grinding halt during this period. In a day only two or three flights are being operated under NSOPs at Delhi, compared to 40 to 50 flights a day during the same period last year. Revenue losses are further aggravated by cancellation of International flights, since the COVID outbreak in Feb 2020. </p>
+<p>The post <a rel="nofollow" href="/blog/effect-of-lockdown-on-ground-handling-and-mro-industry-associated-with-general-aviation/">Effect of Lockdown on Ground Handling and MRO Industry Associated with General Aviation</a> appeared first on <a rel="nofollow" href="/">AvTech Forum India</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blog/effect-of-lockdown-on-ground-handling-and-mro-industry-associated-with-general-aviation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
